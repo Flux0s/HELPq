@@ -8,10 +8,10 @@
 //------------------------------
 
 // Primary color of your brand (Used for primary buttons, glows, etc.)
-$brand-primary: #137DC3;
+$brand-primary: #BE4248;
 
 // Secondary color of your brand (used for secondary buttons)
-$brand-secondary: #FFBF0A;
+$brand-secondary: #19374d;
 
 // Success Buttons
 $brand-success: rgb(46, 204, 113);
@@ -47,7 +47,7 @@ $github-gray: #e4e4e4;
 
 // Styling for the fonts
 @mixin font-stack(){
-  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-family: "Open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 
@@ -75,7 +75,7 @@ $github-gray: #e4e4e4;
   color: white;
 
   // Basic white text on brand color:
-  // background: $brand-primary;
+  //background: $brand-primary;
 
   // Single background image covering the entire page
   // background: url(/assets/images/background.jpg) no-repeat center center;
