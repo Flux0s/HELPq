@@ -8,10 +8,10 @@
 //------------------------------
 
 // Primary color of your brand (Used for primary buttons, glows, etc.)
-$brand-primary: #BE4248;
+$brand-primary: #19374d;
 
 // Secondary color of your brand (used for secondary buttons)
-$brand-secondary: #19374d;
+$brand-secondary: #BE4248;
 
 // Success Buttons
 $brand-success: rgb(46, 204, 113);
@@ -129,7 +129,7 @@ $github-gray: #e4e4e4;
   // background-size: cover;
 
   // Basic white on brand color:
-   background: $brand-secondary;
+   background: $brand-primary;
 
   // Repeated Background:
   //background: url(/assets/images/geometry2.png) repeat;
